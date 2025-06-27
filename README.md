@@ -21,7 +21,7 @@ A modern, responsive personal portfolio built using **HTML**, **CSS**, and **Jav
 
 ## 📸 Preview
 
-![screenshot](assets/preview.png)
+https://vignesh-battula-portfolio.netlify.app/
 
 ## 📬 Contact
 
